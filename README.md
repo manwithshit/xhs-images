@@ -4,6 +4,17 @@
 
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-blueviolet)](https://claude.ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![小红书](https://img.shields.io/badge/小红书-关注我-FF2442)](https://xhslink.com/m/609DkyTU0pp)
+
+## 🖼️ 效果展示
+
+<p align="center">
+  <img src="examples/preview.png" alt="XHS Images 效果展示" width="100%">
+</p>
+
+<p align="center">
+  <i>使用本工具生成的小红书配图示例</i>
+</p>
 
 ## ✨ 功能特点
 
@@ -96,6 +107,22 @@ xhs-images/
 ## 📄 License
 
 MIT License - 详见 [LICENSE](LICENSE)
+
+---
+
+## 🔥 关注我的小红书
+
+想了解更多 AI + 笔记的玩法技巧？关注我的小红书！
+
+[![小红书主页](https://img.shields.io/badge/小红书-1185+赞藏-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://xhslink.com/m/609DkyTU0pp)
+
+👉 **[点击访问我的小红书主页](https://xhslink.com/m/609DkyTU0pp)** 👈
+
+分享内容包括：
+- 🤖 AI 工具使用技巧
+- 📝 Obsidian 笔记管理
+- 🎨 效率工具推荐
+- 💡 个人知识管理
 
 ---
 
